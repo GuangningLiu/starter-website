@@ -3,7 +3,7 @@
 title:Guangning Liu 
 
 # Username (this should match the folder name)
-authors: Guangning Liu
+authors:Guangning Liu
 - admin
 
 # Is this the primary user of the site?
