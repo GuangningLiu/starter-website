@@ -22,12 +22,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Behavioral Operations
-- Strategic Behaviors
+- Strategic Consumers
 - Pricing Strategies
 
 education:
   courses:
-  - course: M.A. in Management Science and Engineering
+  - course: M.A. in MSE
     institution: Southwest Jiaotong University
     year: 2021(expected)
   - course: B.S. in Business Administration
