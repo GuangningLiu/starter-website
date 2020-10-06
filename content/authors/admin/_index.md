@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a master in MSE from Southwest Jiaotong University, Chengdu China). This page provides a brief biography of Guangning Liu, including his Education, Research Experience, Publication, Honors & Awards, and Skills. Particularly, my former experience mainly consists of Academic Researches (mainly about strategic consumers and pricing), Case Studies (mainly about platform company and two-sided market) and several consulting programs for government and companies, supervised by my mentor.
+I am a master in MSE from Southwest Jiaotong University, Chengdu China. This page provides a brief biography of Guangning Liu, including his Education, Research Experience, Publication, Honors & Awards, and Skills. Particularly, my former experience mainly consists of Academic Researches (mainly about strategic consumers and pricing), Case Studies (mainly about platform company and two-sided market) and several consulting programs for government and companies, supervised by my mentor.
 
 If you need further detailed information, please feel free to contact liuguangning@my.swjtu.edu.cn. 
