@@ -33,7 +33,12 @@ education:
   - course: B.S. in Business Administration
     institution: Southwest Jiaotong Universityy
     year: 2018
-
+ - course: Summer School Program
+    institution: Xiamen Universityy
+    year: 2018
+  - course: Summer School Program
+    institution: UCLA
+    year: 2016
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
