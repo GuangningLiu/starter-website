@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guangning Liu 
+title: Guangning Liu (Lewis)
 
 # Username (this should match the folder name)
 authors:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a master in MSE from Southwest Jiaotong University, Chengdu China). This page provides a brief biography of Guangning Liu, including his Education, Research Experience, Publication, Honors & Awards, and Skills. Particularly, my former experience mainly consists of Academic Researches (mainly about strategic consumers and pricing), Case Studies (mainly about platform company and two-sided market) and several consulting programs for government and companies, supervised by my mentor.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+If you need further detailed information, please feel free to contact liuguangning@my.swjtu.edu.cn. 
