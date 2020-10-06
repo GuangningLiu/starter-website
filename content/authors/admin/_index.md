@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Degree Candidate in Management Science and Engineering
+role: Master Candidate in Management Science and Engineering
 
 # Organizations/Affiliations
 organizations:
