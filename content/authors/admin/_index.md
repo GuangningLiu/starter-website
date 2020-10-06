@@ -3,14 +3,14 @@
 title:Guangning Liu 
 
 # Username (this should match the folder name)
-authors:Guangning Liu
+authors:
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MSc in Management Science and Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "liuguangning@my.swjtu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
