@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Research Experience"
-subtitle = "Acadamic Research"
+subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -26,8 +26,14 @@ date_format = "Jan 2006"
   location = "Chengdu China"
   date_start = "May 2019"
   date_end = "Present"
-  description = ""
-  Responsibilities = ""
+  description = ""  
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """ 
+  
   
  [[experience]]
   title = "PLT or ELT? Research on Replenishment Strategy Considering **Consumers’ Availability Regret**"
@@ -37,7 +43,12 @@ date_format = "Jan 2006"
   date_start = "Dec 2019"
   date_end = "July 2020"
   description = ""
-  Responsibilities = ""
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
   
 [[experience]]
   title = "Optimal Pricing Strategies in the Presence of **Copycats**"
@@ -47,7 +58,12 @@ date_format = "Jan 2006"
   date_start = "Feb. 2019"
   date_end = "Dec. 2019"
   description = ""
-  Responsibilities = ""
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
  [[experience]]
   title = "Dynamic Pricing under **Cost Reduction** in the Presence of Myopic and Strategic Consumers"
@@ -57,7 +73,12 @@ date_format = "Jan 2006"
   date_start = "July 2018"
   date_end = " June 2019"
   description = ""
-  Responsibilities = ""
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
  [[experience]]
   title = "Research on the Hinderances to Promote Process of Building Information Mode (BIM)"
@@ -67,9 +88,14 @@ date_format = "Jan 2006"
   date_start = "May 2016"
   date_end = "May 2017"
   description = ""
-  Responsibilities = "" 
+  Responsibilities include:
   
-subtitle = "Case Study"
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+  
+
 
  [[experience]]
   title = "A Study for Business mode of Bizcollection Co., Ltd: Community Management in a Two-sided Market"
@@ -79,7 +105,12 @@ subtitle = "Case Study"
   date_start = "Sept. 2018"
   date_end = "Jan.2020"
   description = "This case was admitted by China Management Case-sharing Center"
-  Responsibilities = ""
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 subtitle = "Consulting Project"
 
@@ -91,7 +122,12 @@ subtitle = "Consulting Project"
   date_start = "May 2018"
   date_end = "Nov. 2019"
   description = ""
-  Responsibilities = ""
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
   
 [[experience]]
   title = "Research on the Impact of China-Pakistan Railway on China–Pakistan Economic Corridor"
@@ -101,7 +137,12 @@ subtitle = "Consulting Project"
   date_start = "Sept. 2017"
   date_end = "June 2018"
   description = ""
-  Responsibilities = ""
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
  
 [[experience]]
   title = "Research on Development Strategy for Laboratory for Rail Transportation"
@@ -111,7 +152,12 @@ subtitle = "Consulting Project"
   date_start = "Sept. 2017"
   date_end = "June 2018"
   description = ""
-  Responsibilities = ""
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
  
  [[experience]]
   title = "Financial Text Mining Project for Ping An Insurance (Group) Company of China, Ltd"
@@ -121,7 +167,10 @@ subtitle = "Consulting Project"
   date_start = "Sept. 2017"
   date_end = "June 2018"
   description = ""
-  Responsibilities = ""
+  Responsibilities include:
   
- 
+  * Analysing
+  * Modelling
+  * Deploying
+  """ 
 +++
