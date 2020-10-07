@@ -18,7 +18,7 @@ organizations:
   url: "https://english.swjtu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include behavioral operations, strategic consumers and pricing strategies.
 
 interests:
 - Behavioral Operations
@@ -29,19 +29,13 @@ education:
   courses:
   - course: M.A. in MSE
     institution: Southwest Jiaotong University
-    year: 2021(expected)
-  
-  courses:  
+    year: 2021(expected) 
   - course: B.S. in Business Administration
     institution: Southwest Jiaotong University
-    year: 2018
-  
-  courses:  
+    year: 2018 
  - course: Summer School Program
     institution: Xiamen University
-    year: 2018
-    
-  courses:   
+    year: 2018   
   - course: Summer School Program
     institution: University of California, Los Angeles
     year: 2016
