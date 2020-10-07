@@ -30,15 +30,18 @@ education:
   - course: M.A. in MSE
     institution: Southwest Jiaotong University
     year: 2021(expected)
-    
+  
+  courses:  
   - course: B.S. in Business Administration
     institution: Southwest Jiaotong University
     year: 2018
-    
+  
+  courses:  
  - course: Summer School Program
     institution: Xiamen University
     year: 2018
     
+  courses:   
   - course: Summer School Program
     institution: University of California, Los Angeles
     year: 2016
