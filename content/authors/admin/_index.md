@@ -33,10 +33,10 @@ education:
   - course: B.S. in Business Administration
     institution: Southwest Jiaotong University
     year: 2018 
- - course: Summer School Program
+ -  course: Summer School Program of Dynamic Programming and SCM
     institution: Xiamen University
     year: 2018   
-  - course: Summer School Program
+  - course: Summer Exchange Program of Innovation & Entrepreneurship
     institution: University of California, Los Angeles
     year: 2016
     
