@@ -26,28 +26,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = "Guangning Liu, Zhenzhong Guan, Hua Wang. (2019). Dynamic Pricing under Cost Reduction in the Presence of Myopic and Strategic Consumers [J]. Discrete Dynamics in Nature and Society, 2019, 1-15."
-    category = "[https://www.hindawi.com/journals/ddns/2019/3272875/](url)"
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-
-[content.filters]
-    tag = "Zhenzhong Guan, Guangning Liu, Hua Wang. Optimal Pricing Strategies in the Presence of Copycats [J]. Industrial Engineering and Management, admitted."
-    category = "[https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=GYGC20191217002&v=8NsqV%25mmd2B9wAnj7q3CGwcMNJUnhB5sFOwebaV9%25mmd2BfoKs5iNmFhOzis1Io2UeuDQ9QH39](url)"
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-
-[content.filters]
-    tag = "Zhenzhong Guan, Guangning Liu. PLT or ELT? Research on Replenishment Strategy Considering Consumers’ Availability Regret [J]. Industrial Engineering and Management, admitted. "
-    category = "[https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=GYGC20200713002&v=Cdng7zT2gP508k4kHxjKui1CPZKu27FK89M%25mmd2FA9V8NrmOAxMNJ1BQPnSQg79xsAi6](url)"
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-
-[content.filters]
-    tag = "Zhenzhong Guan, Yiwan Yu, Sijia Chen, Mengting Shu, Guangning Liu. Crossing the Divide: A Breakthrough Way for Bizcollection Exchange under Community Management, China Management Case-sharing Center, 2020, MIS-0182."
-    category = "[http://www.cmcc-dut.cn/Cases/Detail/4323](url)"
+    category = ""
     publication_type = ""
     author = ""
     exclude_featured = false
