@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "May 2019"
   date_end = "Present"
   description = ""
-  Responsibilities include=""
+  Responsibilities = ""
   
  [[experience]]
   title = "PLT or ELT? Research on Replenishment Strategy Considering **Consumers’ Availability Regret**"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "Dec 2019"
   date_end = "July 2020"
   description = ""
-  Responsibilities include=""
+  Responsibilities = ""
   
 [[experience]]
   title = "Optimal Pricing Strategies in the Presence of **Copycats**"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   date_start = "Feb. 2019"
   date_end = "Dec. 2019"
   description = ""
-  Responsibilities include=""
+  Responsibilities = ""
 
  [[experience]]
   title = "Dynamic Pricing under **Cost Reduction** in the Presence of Myopic and Strategic Consumers"
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   date_start = "July 2018"
   date_end = " June 2019"
   description = ""
-  Responsibilities include=""
+  Responsibilities = ""
 
  [[experience]]
   title = "Research on the Hinderances to Promote Process of Building Information Mode (BIM)"
@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   date_start = "May 2016"
   date_end = "May 2017"
   description = ""
-  Responsibilities include="" 
+  Responsibilities = "" 
   
 subtitle = "Case Study"
 
@@ -79,7 +79,7 @@ subtitle = "Case Study"
   date_start = "Sept. 2018"
   date_end = "Jan.2020"
   description = "This case was admitted by China Management Case-sharing Center"
-  Responsibilities include=""
+  Responsibilities = ""
 
 subtitle = "Consulting Project"
 
@@ -91,7 +91,7 @@ subtitle = "Consulting Project"
   date_start = "May 2018"
   date_end = "Nov. 2019"
   description = ""
-  Responsibilities include=""
+  Responsibilities = ""
   
 [[experience]]
   title = "Research on the Impact of China-Pakistan Railway on China–Pakistan Economic Corridor"
@@ -101,7 +101,7 @@ subtitle = "Consulting Project"
   date_start = "Sept. 2017"
   date_end = "June 2018"
   description = ""
-  Responsibilities include=""
+  Responsibilities = ""
  
 [[experience]]
   title = "Research on Development Strategy for Laboratory for Rail Transportation"
@@ -111,7 +111,7 @@ subtitle = "Consulting Project"
   date_start = "Sept. 2017"
   date_end = "June 2018"
   description = ""
-  Responsibilities include=""
+  Responsibilities = ""
  
  [[experience]]
   title = "Financial Text Mining Project for Ping An Insurance (Group) Company of China, Ltd"
@@ -121,7 +121,7 @@ subtitle = "Consulting Project"
   date_start = "Sept. 2017"
   date_end = "June 2018"
   description = ""
-  Responsibilities include=""
+  Responsibilities = ""
   
  
 +++
