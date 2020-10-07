@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: M.A. in MSE
+  - course: M.A. in Management Sci.& Eng.
     institution: Southwest Jiaotong University
     year: 2021(expected) 
   - course: B.S. in Business Administration
@@ -36,9 +36,6 @@ education:
  -  course: Summer School Program of Dynamic Programming and SCM
     institution: Xiamen University
     year: 2018   
-  - course: Summer Exchange Program of Innovation & Entrepreneurship
-    institution: University of California, Los Angeles
-    year: 2016
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
