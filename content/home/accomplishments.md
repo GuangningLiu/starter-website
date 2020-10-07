@@ -18,7 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-"""
 
 [[item]]
   organization = "Education Department of Sichuan Province"
@@ -80,6 +79,5 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
-"""
 
 +++
