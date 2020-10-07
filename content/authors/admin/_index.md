@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-  - course: M.A. in Management Sci.& Eng.
-    institution: Southwest Jiaotong University
-    year: 2021(expected) 
-  - course: B.S. in Business Administration
-    institution: Southwest Jiaotong University
-    year: 2018 
- -  course: Summer School Program of Dynamic Programming and SCM
-    institution: Xiamen University
-    year: 2018   
+  - course: PhD in Development Studies
+    year: 2018
+  - course: MBA in Rural Development
+    year: 2009
+  - course: BA in Mathematics, Economics and English
+    year: 2007  
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
