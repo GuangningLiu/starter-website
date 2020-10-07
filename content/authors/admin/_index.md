@@ -31,13 +31,13 @@ education:
     institution: Southwest Jiaotong University
     year: 2021(expected)
   - course: B.S. in Business Administration
-    institution: Southwest Jiaotong Universityy
+    institution: Southwest Jiaotong University
     year: 2018
  - course: Summer School Program
-    institution: Xiamen Universityy
+    institution: Xiamen University
     year: 2018
   - course: Summer School Program
-    institution: UCLA
+    institution: University of California, Los Angeles
     year: 2016
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
