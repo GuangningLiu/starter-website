@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Guangning Liu, Zhenzhong Guan, Hua Wang. (2019). Dynamic Pricing under Cost Reduction in the Presence of Myopic and Strategic Consumers [J]. Discrete Dynamics in Nature and Society, 2019, 1-15."
+    tag = ""
     category = ""
     publication_type = ""
     author = ""
